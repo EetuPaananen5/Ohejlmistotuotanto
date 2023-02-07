@@ -10,4 +10,8 @@ public class Class1
 		name = name;
 		age = age;	
 	}
+	public void nameInfo()
+	{
+		return name + age;
+	}
 }
